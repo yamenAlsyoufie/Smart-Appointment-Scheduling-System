@@ -1,4 +1,5 @@
 # Smart-Appointment-Scheduling-System
+in our app you can add services, book the appointments,avoid overlaps between the oppointments, send message to email when accpet or refuse the appointment,ability change the state of the appointments from admin 
 post:https://localhost:8443/api/auth/signup
 Body 
 {
