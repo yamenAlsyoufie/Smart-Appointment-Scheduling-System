@@ -68,5 +68,8 @@ GET     https://localhost:8443/ws
 =========================================
 
 Yamen alsyoufie:dataBase + https + logic + websocket + AOP+Email request 
-Ahmad Zetton: logic + stress testing
+=====================================================================
+Ahmad Zetton: logic + stress testing+book using Google gemini + change the state of the appointments
+=====================================================================
 Amjad Abu bakar: login + singup + jwt security
+=====================================================================
